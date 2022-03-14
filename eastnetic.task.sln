@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eastnetic.task", "eastnetic.task\eastnetic.task.csproj", "{FF166733-85A7-4FD8-B8D5-C9A0D7F5C18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF166733-85A7-4FD8-B8D5-C9A0D7F5C18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF166733-85A7-4FD8-B8D5-C9A0D7F5C18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF166733-85A7-4FD8-B8D5-C9A0D7F5C18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF166733-85A7-4FD8-B8D5-C9A0D7F5C18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE2C53EB-2F97-4BE5-8CD5-06C9294B4DC0}
+	EndGlobalSection
+EndGlobal
