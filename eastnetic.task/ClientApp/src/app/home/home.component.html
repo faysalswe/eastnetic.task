@@ -1,8 +1,11 @@
-<input disabled type="number" [(ngModel)]="width">
-<input disabled type="number" [(ngModel)]="height">
-<button>Save to backend</button>
+<div class="actions">
+  <input type="number" [(ngModel)]="width">
+  <input type="number" [(ngModel)]="height">
+  <button (click)="initialDimension()">Fetch Initial Dimension </button>
+  <button (click)="updateNewDimension()">Update New Dimension </button>
+</div>
 
-<svg width="800px" height="700px">
+<svg width="800px" height="800px">
   <g>
     <rect #box [attr.width]="width" [attr.height]="height"></rect>
 

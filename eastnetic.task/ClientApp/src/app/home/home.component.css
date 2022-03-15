@@ -12,3 +12,11 @@ rect {
 circle:hover{
     cursor: nwse-resize;
 }
+
+.actions {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-left: 5px;
+}
