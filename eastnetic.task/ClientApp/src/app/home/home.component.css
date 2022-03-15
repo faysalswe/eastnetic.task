@@ -1,0 +1,14 @@
+circle {
+    fill: white;
+    stroke: silver;
+    stroke-width: 3px;
+}
+
+rect {
+    fill: transparent;
+    stroke: green;
+}
+
+circle:hover{
+    cursor: nwse-resize;
+}
